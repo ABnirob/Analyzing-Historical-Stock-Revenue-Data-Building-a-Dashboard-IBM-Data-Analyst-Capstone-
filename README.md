@@ -62,4 +62,4 @@ The analysis revealed distinct trends for each company:
 
 1.  **Clone the repository** to your local machine or open it directly in Google Colab.
     ```bash
-    git clone <your-repo-url>
+    git clone <https://github.com/ABnirob/Analyzing-Historical-Stock-Revenue-Data-Building-a-Dashboard-IBM-Data-Analyst-Capstone-.git>
