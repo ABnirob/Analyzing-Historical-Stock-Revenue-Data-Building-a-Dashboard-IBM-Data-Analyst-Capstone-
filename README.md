@@ -48,14 +48,14 @@ The analysis revealed distinct trends for each company:
 *   **Analysis Period:** Stock Data (Up to June 14, 2021) & Revenue Data (Up to April 30, 2021).
 *   **Trend:** Between 2018 and 2021, **both Tesla's stock price and revenue showed strong, correlated growth**. The share price skyrocketed alongside a steady increase in reported quarterly revenue.
 
-![Tesla Stock and Revenue Graph](images/tesla_graph.png)
+![Tesla Stock and Revenue Graph](images/1.png)
 *(Note: Ensure this image path is correct or remove the line if you don't have a separate `/images` folder)*
 
 ### GameStop (GME)
 *   **Analysis Period:** Stock Data (Up to June 14, 2021) & Revenue Data (Up to April 30, 2021).
 *   **Trend:** The graph shows a **dramatic surge in GameStop's stock price around 2021**, which was not accompanied by a similar increase in revenue. This decoupling is a classic indicator of a short-squeeze event (as seen in early 2021) rather than growth driven by fundamental business performance.
 
-![GameStop Stock and Revenue Graph](images/gamestop_graph.png)
+![GameStop Stock and Revenue Graph](images/22.png)
 *(Note: Ensure this image path is correct or remove the line if you don't have a separate `/images` folder)*
 
 ## 🏁 How to Run the Notebook
